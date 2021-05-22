@@ -1,0 +1,7 @@
+https://greensock.com/scrollmagic/
+
+https://cdnjs.com/libraries/gsap
+
+
+BezierPlugin
+https://greensock.com/docs/v2/Plugins/BezierPlugin
